@@ -7,5 +7,7 @@
 </head>
 <body>
     <livewire:hello-world></livewire>
+    <hr>
+    <livewire:counter></livewire>
 </body>
 </html>
